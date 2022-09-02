@@ -5,6 +5,7 @@
 ***Click the Title <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/index-pointing-up_261d-fe0f.png" height=40> to download and View Project***
 
 ## **AIM: To predict/Classify the Sentiment of the Financial News from the Description and Headlines of the newspaper.**
+we used the Headlines, description and combination of description and headlines and try to predict whether the news is **Positive** or **Negative** or **Neutral** 
 
 ## How will the company profit from this solution?
 
